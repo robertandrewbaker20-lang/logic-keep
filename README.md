@@ -4,7 +4,7 @@ I wanted screen time to build reasoning skills instead of just burning time. Log
 
 Built for my kids, open for anyone to play.
 
-Live demo: add the public URL here when the site is deployed.
+Live demo: https://logic-keep.vercel.app
 
 ## The problem
 
